@@ -1,0 +1,10 @@
+__pycache__/
+checkpoints
+checkpoints_*/
+datasets
+**/outputs_*/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pre_*
+scripts/analysis/response_inputs/
